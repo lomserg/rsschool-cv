@@ -1,8 +1,10 @@
 # **Sergey Lomov**  
 _FRONTEND DEVELOPER_
-  
 
-![avatar](photo.jpeg)
+
+![photo](photo.jpeg)
+
+
 ## **SUMMARY**
 Two years experienced Front End
 Developer with ability to fast self-learn,
@@ -30,8 +32,10 @@ ___
 - GO
 - Git
 - Figma
-- English B1s
 ___
+## **ENGLISH LEVEL**
+- English B1s
+
 ## **EDUCATION**
 
 ### Siberian State University of
