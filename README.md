@@ -1,2 +1,2 @@
-# LINK to github
+## LINK to github 
 https://lomserg.github.io/rsschool-cv/cv
