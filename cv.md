@@ -2,7 +2,8 @@
 _FRONTEND DEVELOPER_
 
 
-![photo](photo.jpeg)
+
+<img src="photo.jpeg" alt="photo" width="200"/>
 
 
 ## **SUMMARY**
