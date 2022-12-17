@@ -1,5 +1,5 @@
 # **Sergey Lomov**  
-_FRONTEND DEVELOPER_
+__FRONTEND DEVELOPER__
 
 
 
