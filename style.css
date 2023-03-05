@@ -71,6 +71,7 @@ a{ color: 203572;
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 3rem 2.5rem;
 }
 .nav-links {
     list-style-type: none;
@@ -118,15 +119,17 @@ fotter
 }
 
 footer {
-    margin-top: 3rem;
-    padding: 1rem;
+    /* margin-top: 3rem;
+    padding: 1rem; */
     width: 100%;
 }
 
 .footer-info {
     display: flex;
-    max-width: 100%;
-    justify-content: space-between;
+    width: 500px;
+    justify-content: center;
+    gap: 4rem;
+    align-items: center;
 }
 
 
