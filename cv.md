@@ -1,9 +1,9 @@
 # **Sergey Lomov**  
-__FRONTEND DEVELOPER__
+_FRONTEND DEVELOPER_
 
 
 
-<img src="assets/img/photo.jpeg" alt="photo" width="200"/>
+<img src="photo.jpeg" alt="photo" width="200"/>
 
 
 ## **SUMMARY**
