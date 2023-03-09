@@ -1,4 +1,4 @@
-# **Sergey Lomov**  
+# **Sergey Lomov**
 __FRONTEND DEVELOPER__
 
 
@@ -55,7 +55,7 @@ ___
 
 ## **PORTFOLIO WORKS**
 
-[LP - HTML, CSS, JS](https://promo.ecotelecom.ru/)  
+[LP - HTML, CSS, JS](https://promo.ecotelecom.ru/)
 [LP 2 - HTML, CSS, JS](https://hr.ecotelecom.ru/)
 
 ___
