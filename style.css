@@ -99,6 +99,11 @@ a { color: #203572;
     color: #fff;
 }
 
+.left-col-sub {
+    width: 30%;
+    background-color: #203572;
+}
+
 .right-col {
     max-width: 60%;
     position: relative;
@@ -118,15 +123,15 @@ fotter
 }
 
 footer {
-    margin-top: 3rem;
-    padding: 1rem;
+
+
     width: 100%;
 }
 
 .footer-info {
     display: flex;
-    max-width: 100%;
-    justify-content: space-between;
+    width: 100%;
+    gap: 5rem;
 }
 
 
