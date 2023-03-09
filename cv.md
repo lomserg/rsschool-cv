@@ -1,9 +1,9 @@
-# **Sergey Lomov**  
-_FRONTEND DEVELOPER_
+# **Sergey Lomov**
+__FRONTEND DEVELOPER__
 
 
 
-<img src="photo.jpeg" alt="photo" width="200"/>
+<img src="assets/img/photo.jpeg" alt="photo" width="200"/>
 
 
 ## **SUMMARY**
@@ -55,7 +55,7 @@ ___
 
 ## **PORTFOLIO WORKS**
 
-[LP - HTML, CSS, JS](https://promo.ecotelecom.ru/)  
+[LP - HTML, CSS, JS](https://promo.ecotelecom.ru/)
 [LP 2 - HTML, CSS, JS](https://hr.ecotelecom.ru/)
 
 ___
