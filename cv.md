@@ -1,9 +1,5 @@
 # **Sergey Lomov**
-<<<<<<< HEAD
 __FRONTEND DEVELOPER__
-=======
-_FRONTEND DEVELOPER_
->>>>>>> gh-pages
 
 
 
