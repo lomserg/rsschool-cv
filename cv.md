@@ -1,4 +1,4 @@
-# **Sergey Lomov**  
+# **Sergey Lomov**
 _FRONTEND DEVELOPER_
 
 
